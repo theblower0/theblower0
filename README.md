@@ -4,18 +4,6 @@
         </samp>
 </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theblower0&label=Profile%20views&color=0e75b6&style=flat" alt="theblower0" /> </p>
-<p align= "left">
-        <a href="#" target="_blank"><img alt="Linkedin"
-                        src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
-        </a>
-         <a href="#" target="_blank"><img alt="Gmail"
-                        src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
-        
-        
-
-</p>
-
 
 
 <h3 align="left"><samp>&gt; Good to see you here!</samp></h3>
@@ -31,8 +19,6 @@ I am passionate about software development. 👨🏽‍💻 I like programing Ja
 
 
 <h3 align="left"><samp>⚡ Technologies</samp></h3>
-
-<br>
 
 <p align= "left">
         <a href="#" target="_blank"><img alt="HTML"
@@ -51,6 +37,22 @@ I am passionate about software development. 👨🏽‍💻 I like programing Ja
                         src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white">
         </a>
 </p>
+
+
+<h3 align="left"><samp>Find me on</samp></h3>
+
+<p align= "left">
+        <a href="#" target="_blank"><img alt="Linkedin"
+                        src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
+        </a>
+         <a href="#" target="_blank"><img alt="Gmail"
+                        src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white">
+        </a>
+        
+        
+
+</p>
+
         
 
 <!--
